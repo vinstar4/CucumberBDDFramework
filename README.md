@@ -117,7 +117,7 @@ scriptTimeOut=10
 
 ```bash
 git clone https://github.com/vinstar4/CucumberBDDFramework
-cd BDDFramework2026
+cd BDDFramework
 mvn clean test
 ```
 
