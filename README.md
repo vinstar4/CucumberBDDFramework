@@ -116,7 +116,7 @@ scriptTimeOut=10
 ## 6. Running the Tests
 
 ```bash
-git clone https://github.com/Mukesh-50/BDDFramework2026.git
+git clone https://github.com/vinstar4/CucumberBDDFramework
 cd BDDFramework2026
 mvn clean test
 ```
